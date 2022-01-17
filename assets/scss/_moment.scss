@@ -1,0 +1,85 @@
+.main {
+  .moment {
+    height: 50vh;
+    .container {
+      height: 100%;
+      padding-top: 70px;
+      .wrap {
+        max-width: 1000px;
+        width: 100%;
+        height: 100%;
+        position: relative;
+        .box-img1 {
+          position: absolute;
+          left: 200px;
+          animation: toUp 2s linear infinite;
+        }
+        .box-img2 {
+          position: absolute;
+          top: -25px;
+          left: 320px;
+          animation: toUp2 2s linear infinite;
+        }
+        .box-img3 {
+          position: absolute;
+          top: -20px;
+          left: 450px;
+          animation: toUp3 2s linear infinite;
+        }
+        .box-img4 {
+          position: absolute;
+          top: 10px;
+          left: 485px;
+          animation: toUp4 2s linear infinite;
+        }
+        .box-img5 {
+          position: absolute;
+          top: -25px;
+          left: 560px;
+          animation: toUp 2s linear infinite;
+        }
+        .box-img6 {
+          position: absolute;
+          top: -37px;
+          left: 650px;
+          animation: toUp2 2s linear infinite;
+        }
+        .box-img7 {
+          position: absolute;
+          top: 45px;
+          left: 400px;
+          animation: toUp3 2s linear infinite;
+        }
+        .box-img8 {
+          position: absolute;
+          top: 55px;
+          right: 420px;
+          animation: toUp4 2s linear infinite;
+        }
+        .box-img9 {
+          position: absolute;
+          top: 105px;
+          left: 340px;
+          animation: toUp 2s linear infinite;
+        }
+        .box-img10 {
+          position: absolute;
+          top: 100px;
+          right: 320px;
+          animation: toUp2 2s linear infinite;
+        }
+        .box-img11 {
+          position: absolute;
+          top: 100px;
+          left: 480px;
+          animation: toUp3 2s linear infinite;
+        }
+        .box-img12 {
+          position: absolute;
+          right: 200px;
+          animation: toUp4 2s linear infinite;
+        }
+      }
+    }
+  }
+}

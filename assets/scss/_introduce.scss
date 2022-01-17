@@ -1,0 +1,22 @@
+.main {
+  .introduce {
+    font-family: primary-font;
+    .container {
+      .wrap {
+        text-align: center;
+        .intro-title {
+          font-family: "Roboto Condensed", sans-serif;
+          font-size: 45px;
+          line-height: 60px;
+          font-weight: bold;
+          padding-top: 50px;
+        }
+        .intro-desc {
+          font-size: 16px;
+          margin: 0;
+          letter-spacing: 1px;
+        }
+      }
+    }
+  }
+}
