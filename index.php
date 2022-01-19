@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Chat Bot - Việt Nam</title>
+    <title>Bot - Việt Nam</title>
     <link rel="stylesheet" href="./assets/css/app.css" />
-    <link rel="icon" type="image/x-icon" href="/assets/img/logo.ico">
+    <link rel="icon" type="image/x-icon" href="./assets/img/logo.ico">
     <link
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -34,15 +34,14 @@
           <div class="row">
             <div class="col-3">
               <div class="top-bar_logo">
-                <h4 class="logo"><a class="logo-link" href="">CHAT BOTS</a></h4>
+                <h4 class="logo"><a class="logo-link" href="">CHAT BOTS - AI VIỆT NAM</a></h4>
               </div>
             </div>
             <div class="col-6">
               <ul class="top-bar_menu">
                 <li class="top-bar_item"><a href="#">Trang chủ</a></li>
-                <li class="top-bar_item"><a href="#">Tạo chatsbots</a></li>
-                <li class="top-bar_item"><a href="#">Trader</a></li>
-                <li class="top-bar_item"><a href="#">Guarantees</a></li>
+                <li class="top-bar_item"><a href="#">Tạo BOTS</a></li>
+                <li class="top-bar_item"><a href="#">Trader - Crypto</a></li>
                 <li class="top-bar_item"><a href="#">Đánh giá</a></li>
                 <li class="top-bar_item"><a href="#">Liên hệ</a></li>
               </ul>
